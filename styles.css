@@ -1,0 +1,111 @@
+body {
+    align-items: center;
+    justify-content: center;
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 0;
+  }
+
+.head-overall {
+    width: 100%;
+    background-color: rgb(177, 22, 22);
+    margin: 0;
+    padding: 0;
+}
+
+.heading {
+    font-size: 2.5rem;
+    font-weight: bolder;
+    width: 100%;
+    background-color: rgb(177, 22, 22);
+    margin: 0;
+    padding: 0;
+}
+
+.top-nav {
+    font-size: 1.3rem;
+    width: 100%;
+    background-color: rgb(177, 22, 22);
+    overflow: hidden;
+}
+
+.top-nav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+.top-nav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+.intro {
+    font-size: 1.5rem;
+    width:75%;
+    color: black;
+    padding: 1%;
+    margin: auto;
+    display: flex;
+    
+}
+
+.intro img {
+    height: 500px;
+    width: 331px;
+    text-align: right;
+    padding: 1%;
+    
+}
+
+.about {
+    font-size: 1.5rem;
+    width:75%;
+    color: black;
+    padding: 1%;
+    margin: auto;
+    display: flex;
+    
+}
+
+.about img {
+    height: 400px;
+    width: 400px;
+    text-align: left;
+    padding: 1%;
+    
+}
+
+.setup {
+    font-size: 2rem;
+    width: 100%;
+    height: auto;
+    background-color: rgb(177, 22, 22);
+    text-align: center;
+    color: blue;
+    padding: 1%;
+}
+
+.contact {
+    font-size: 1.5rem;
+    width:75%;
+    color: black;
+    padding: 1%;
+    margin: auto;
+    
+}
+
+.trylol {
+    height: 320px;
+    width: 320px;
+    text-align: right;
+    padding: 3%;
+    
+}
+
+.trylol:hover {
+    opacity: 0.3;
+  }
